@@ -1,6 +1,8 @@
 <?php
 
 
+define("EPII",1);
+
 define('FM_ROOT_PATH', "/Volumes/BOOTCAMP/php/");
 
 $auth_users = array(
