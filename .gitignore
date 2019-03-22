@@ -1,0 +1,13 @@
+/.idea
+/.vscode
+/vendor
+*.log
+*.DS_Store
+*.bat
+*.sh
+*.conf
+*.ini
+deploy
+.time
+readme.tuiguang.md
+index.php

@@ -1,0 +1,13 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: mrren
+ * Date: 2019/3/21
+ * Time: 5:44 PM
+ */
+
+//define("FM_EMBED",true);
+//$_SERVER['DOCUMENT_ROOT'] = "/Volumes/BOOTCAMP/php/phpworkspace/";
+define('FM_ROOT_PATH', "/Volumes/BOOTCAMP/php/");
+require_once "tinyfilemanager.php";
+
